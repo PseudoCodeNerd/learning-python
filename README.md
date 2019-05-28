@@ -1,14 +1,21 @@
 Python 3 : Learnt by Madhav
 =========================
+## Resources and Guides Used:
+
+-  __Complete Python Bootcamp: Go from zero to hero in Python 3__ on _Udemy_
+-  __CMU 15-112: Fundamentals of Programming and Computer Science__ by _Carnegie Mellon University_
+-  __Introduction to Computer Science and Programming Using Python__ provided by _Massachusetts Institute of Technology (MITx)_
+
+- __Learn Python 3 The Hard Way__ by _Zed A. Shaw_
+
+
+## Installation
 
 Simply open the [Jupyter](http://jupyter.org/) notebooks you are interested in:
 
 * Using [jupyter.org's notebook viewer](http://nbviewer.jupyter.org/github/ageron/handson-ml/blob/master/index.ipynb)
     * note: [github.com's notebook viewer](https://github.com/ageron/handson-ml/blob/master/index.ipynb) also works but it is slower and the math formulas are not displayed correctly,
 * or by cloning this repository and running Jupyter locally. This option lets you play around with the code. In this case, follow the installation instructions below.
-
-# Installation
-
 First, you will need to install [git](https://git-scm.com/), if you don't have it already.
 
 Next, clone this repository by opening a terminal and typing the following commands:
