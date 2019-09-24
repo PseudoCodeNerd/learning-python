@@ -3,12 +3,25 @@ Python 3 : Learnt by Madhav  [![Binder](https://mybinder.org/badge_logo.svg)](ht
 ## Resources and Guides Used:
 
 -  __Complete Python Bootcamp: Go from zero to hero in Python 3__ on _Udemy_
--  __CMU 15-112: Fundamentals of Programming and Computer Science__ by _Carnegie Mellon University_
--  __Introduction to Computer Science and Programming Using Python__ provided by _Massachusetts Institute of Technology (MITx)_
+-  [__CMU 15-112: Fundamentals of Programming and Computer Science__](https://www.cs.cmu.edu/~112/) by _Carnegie Mellon University_
+- [ __Introduction to Computer Science and Programming Using Python__](https://courses.edx.org/certificates/a58a0b7523f84a9dbea0e1830a80116d) provided by _Massachusetts Institute of Technology (MITx)_
 
 - __Learn Python 3 The Hard Way__ by _Zed A. Shaw_
+<hr>
 
-
+### Pythonly Active on:
+* CodeWars <br>![](cwlarge.svg)<br>
+* [HackerRank](https://www.hackerrank.com/Sharma_dhav)
+* [CodeChef](https://www.codechef.com/users/sharma_dhav03)<br>*Still a CP nUb*
+## Implementation of some useful Algos/DS/MLConcepts in Python
+### ML Stuff
+* [newton-raphson method](Algos/newtonraphson.py)
+* - [ ] (traditional) Gradient Descent
+* - [ ] Random Forest Classifier/Regressiom
+* - [ ] cool neural network
+### Sorts/Searches
+* [bubblesort](Algos/bubblesort.py)
+* To add many more...
 ## Installation
 
 Simply open the [Jupyter](http://jupyter.org/) notebooks you are interested in:
@@ -29,10 +42,6 @@ If you do not want to install git, you can instead download [master.zip](https:/
 If you want to go through chapter 16 on Reinforcement Learning, you will need to [install OpenAI gym](https://gym.openai.com/docs) and its dependencies for Atari simulations.
 
 If you are familiar with Python and you know how to install Python libraries, go ahead and install the libraries listed in `requirements.txt` and jump to the [Starting Jupyter](#starting-jupyter) section.
-
-## SpinZero: The *awesome* theme that I rock!
-![Notebook Design Screenshot](https://github.com/PseudoCodeNerd/learning-python/blob/master/screenshot_v2.0.png "Notebook Design")
-
 
 ## Using Anaconda
 When using Anaconda, you can optionally create an isolated Python environment dedicated to this project. This is recommended as it makes it possible to have a different environment for each project (e.g. one for this project), with potentially different libraries and library versions:
