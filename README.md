@@ -16,12 +16,13 @@ Python 3 : Learnt by Madhav  [![Binder](https://mybinder.org/badge_logo.svg)](ht
 ## Implementation of some useful Algos/DS/MLConcepts in Python
 ### ML Stuff
 * [newton-raphson method](Algos/newtonraphson.py)
-* - [ ] (traditional) Gradient Descent
+* [Neural Network implementation w/ BP Algo](Algos/backpropNN.py) 
 * - [ ] Random Forest Classifier/Regressiom
-* - [ ] cool neural network
+
 ### Sorts/Searches
 * [bubblesort](Algos/bubblesort.py)
-* To add many more...
+* [insertionsort](Algos/insertionsort.py)
+* [binarysearch](Algos/binarysearch.py)
 ## Installation
 
 Simply open the [Jupyter](http://jupyter.org/) notebooks you are interested in:
