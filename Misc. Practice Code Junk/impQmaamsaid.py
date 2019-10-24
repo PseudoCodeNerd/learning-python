@@ -44,3 +44,5 @@ for j in range(lenList2):
     if new_lis[j] > secmax:
         secmax = new_lis[j]
 print("Second Highest Number : ", secmax)
+
+
